@@ -4,6 +4,6 @@
 ### Visit projects I'm working on:
 <div align="left">
   <a href="https://github.com/levrx/movie-vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=levrx&repo=movie-vault" alt="Readme Card" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=levrx&theme=dark&repo=movie-vault" alt="Readme Card" width="400"/>
   </a>
 </div>
