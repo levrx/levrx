@@ -5,5 +5,6 @@
 <div align="left">
   <a href="https://github.com/levrx/movie-vault">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=levrx&theme=dark&repo=movie-vault" alt="Readme Card" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=levrx&theme=dark&repo=image-host" alt="Readme Card" width="400"/>
   </a>
 </div>
