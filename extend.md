@@ -1,4 +1,4 @@
- ![1](https://cdn.discordapp.com/emojis/1257646895845867539.webp?size=96&quality=lossless) ![2](https://cdn.discordapp.com/emojis/1257646905714937948.webp?size=96&quality=lossless) ![3](https://cdn.discordapp.com/emojis/1257646914573172766.webp?size=96&quality=lossless)
+ ![1](https://cdn.discordapp.com/attachments/1252712386305982626/1258051828847874120/zzwrtim.png?ex=6686a391&is=66855211&hm=4732bd3170c441e0a3106fac1feb7898c00f5596fe5750488caeabf9fde37c3f&)
 
 -   **Create a new partition on `/dev/sda`**:    
 Use `fdisk` to create a new partition with the remaining space.
